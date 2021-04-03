@@ -1,4 +1,9 @@
+
 {
+  "scripts": {
+    "hint": "hint .",
+    "lint": "stylelint '**/*.{css,scss}'"
+  },
   "devDependencies": {
     "hint": "^6.0.7",
     "stylelint": "^13.3.3",
